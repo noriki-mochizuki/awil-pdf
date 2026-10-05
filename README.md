@@ -4,11 +4,13 @@ Windows 11 / 64bit向けのローカルPDF編集ソフトです。PDFの閲覧�
 
 ## ダウンロードと更新
 
-[AWIL PDFの正式配布先](https://github.com/noriki-mochizuki/awil-pdf-releases/releases/latest)から `AWILPDF-Setup-<版数>.exe` を取得してください。Pythonのインストールや管理者権限は不要です。
+[AWIL PDFの正式配布先](https://github.com/noriki-mochizuki/awil-pdf/releases/latest)から `AWILPDF-Setup-<版数>.exe` を取得してください。Pythonのインストールや管理者権限は不要です。
 
 旧称PDF Desk／旧称Temoto PDFからは、登録済みの同じ場所へ上書き更新します。事前アンインストールは不要です。設定・復旧データ・最近使ったPDF・ユーザーPDF・既定の関連付けを保持します。既定アプリの変更にはWindowsでの確定操作が必要です。
 
 旧称Temoto PDF向けの旧リポジトリは、未配布のため所有者の依頼で削除しました。旧版を使用している場合は、新配布先のAWIL PDFセットアップを直接実行して上書きしてください。更新後はAWIL PDFの配布先を参照します。署名方式・公開鍵は変更していません。更新時にPDFやファイル名を送信しません。
+
+AWIL PDF 0.5.0以前は変更前の配布先を固定しているため、今回だけ `AWILPDF-Setup-0.5.1.exe` を直接実行して上書きしてください。旧版のアンインストールは不要です。0.5.1以降はこの正式な配布先から更新を確認します。
 
 ## 対応ソースとライセンス
 
